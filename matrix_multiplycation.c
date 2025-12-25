@@ -1,3 +1,15 @@
+// Author : Velan
+// Date : Dec-25-25 at 7:45pm at DElHI standard time
+// Description : Made a Multiplycation of matrix
+
+// Algorithm
+/*
+ * Get input for Matrix-A
+ * Get input for Matrix-B
+ * Process Multiplycation of both (A*B)-matrix
+ * Display Result
+ */
+
 #include <stdio.h>
 
 int main() {
@@ -44,5 +56,6 @@ int main() {
     }
   }
 
+  printf("\nSuccessfully Program Executed!");
   return 0;
 }
